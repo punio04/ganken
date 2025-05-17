@@ -1733,14 +1733,6 @@ button.slide-arrow2 {
   width: 50%;
 }
 
-
-@media (max-width: 1080px) and (min-width: 768px) {
-  .p-price {
-    padding-right: 6vw;
-    padding-left: 6vw;
-  }
-}
-
 .sub-txt {
   text-align: center;
   color: #8b6900;
@@ -2028,8 +2020,8 @@ button.slide-arrow2 {
 
   .reason_ttl {
     font-size: 1.6em;
-      line-height: 1.3;
-      padding: 1.0rem;
+    line-height: 1.3;
+    padding: 1.0rem;
   }
 
   .c-case-card__title {
@@ -2045,9 +2037,9 @@ button.slide-arrow2 {
   .sub-txt {
     text-align: center;
     color: #8b6900;
-    padding-top: 12px;
-    font-size: 17px;
-    line-height: 1.3;
+    padding-top: 14px;
+    font-size: 25px;
+    line-height: 1.5;
   }
 
   .part__name {
@@ -2127,4 +2119,15 @@ button.slide-arrow2 {
     background: #fff;
     padding: 20px;
   }
+}
+
+@media (max-width: 550px) {
+  .sub-txt {
+    text-align: center;
+    color: #8b6900;
+    padding-top: 12px;
+    font-size: 17px;
+    line-height: 1.3;
+  }
+
 }
