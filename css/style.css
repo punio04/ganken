@@ -1817,8 +1817,8 @@ button.slide-arrow2 {
 }
 
 .head_line {
-  border-top: 1px solid rgba(0, 0, 0, 0.5);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  border-top: 1px solid #8b6900;
+  border-bottom: 1px solid #8b6900;
   font-family: var(--font-jp-min);
   font-size: 26px;
   font-weight: 500;
@@ -1826,6 +1826,7 @@ button.slide-arrow2 {
   text-align: center;
   padding: 15px;
   margin-bottom: 20px;
+  color: #8b6900;
 }
 
 .more .detail {
