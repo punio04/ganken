@@ -2223,3 +2223,9 @@ p {
   }
 
 }
+
+@media not all and (min-width: 960px) {
+  .imagespace {
+    margin-top: 1.0rem;
+  }
+}
