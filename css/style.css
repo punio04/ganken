@@ -87,7 +87,7 @@ main {
   }
 
   h2 {
-    font-size: 2em;
+    font-size: 1.8em;
   }
 
   h2.md {
@@ -2200,6 +2200,10 @@ p {
     border-image: initial;
     width: 50%;
     color: #686868;
+  }
+
+  .head_line {
+    font-size: 1.8em;
   }
 
   p {
